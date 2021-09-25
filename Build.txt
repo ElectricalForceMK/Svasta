@@ -222,6 +222,22 @@ description="BoongoTV by ElectricalForce"
 -----------------------------------------------------------------------------------------------------------------------
 
 
+name="TEST.zip"
+version="0.0.5"
+url="http://zadarbuild.com.hr/BuildzipZD/KODI-19/VHS%20-F2-POWERS/VHS%20-F2-POWERS.zip"
+minor="http://"
+gui="http://"
+kodi="19.0"
+theme="http://"
+icon="https://raw.githubusercontent.com/ElectricalForceMK/Svasta/master/fanart.jpg"
+fanart="https://raw.githubusercontent.com/ElectricalForceMK/Svasta/master/icon.png"
+preview="http://"
+adult="no"
+info="http://"
+description="ElectricalForce" 
+
+-----------------------------------------------------------------------------------------------------------------------
+
 
 
 
