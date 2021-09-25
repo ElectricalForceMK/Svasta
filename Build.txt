@@ -213,11 +213,11 @@ gui="http://"
 kodi="19.0"
 theme="http://"
 icon="https://zadarbuild.com.hr/BuildzipZD/KODI-19/slike/VHS.jpg"
-fanart="https://zadarbuild.com.hr/BuildzipZD/KODI-19/slike/VHS.jpg"
+fanart="https://raw.githubusercontent.com/ElectricalForceMK/Svasta/master/icon.png"
 preview="http://"
 adult="no"
 info="http://"
-description="ZTBH VHS F2 POWERS Build" 
+description="BoongoTV by ElectricalForce" 
 
 -----------------------------------------------------------------------------------------------------------------------
 
