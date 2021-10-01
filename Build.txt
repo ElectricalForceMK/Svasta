@@ -2,7 +2,7 @@
 
 name="BoongoTV BUILD by ElectricalForce"
 version="0.0.4"
-url="https://download846.mediafire.com/ad31ezzaqojg/85u1at3ka55f1c9/Test-Build.zip"
+url="https://archive.org/download/test-1_202110/Test-1.zip"
 minor="http://"
 gui="http://"
 kodi="19.1"
