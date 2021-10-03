@@ -1,8 +1,8 @@
 -----------------------------------------------------------------------------------------------------------------------
 
-name="BoongoTV BUILD by ElectricalForce"
+name=" BoongoTV BUILD by ElectricalForce"
 version="0.0.4"
-url="https://archive.org/download/test-1_202110/Test-1.zip"
+url="https://archive.org/download/boongo-tv-build/BoongoTV%20-%20Build.zip"
 minor="http://"
 gui="http://"
 kodi="19.1"
