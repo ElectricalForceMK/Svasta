@@ -1,8 +1,8 @@
 -----------------------------------------------------------------------------------------------------------------------
 
-name=" BoongoTV BUILD by ElectricalForce"
-version="0.0.4"
-url="https://archive.org/download/boongo-tv-build/BoongoTV%20-%20Build.zip"
+name="BoongoTV BUILD by ElectricalForce"
+version="0.0.1"
+url="https://archive.org/download/boongo-tv-build-test-1/BoongoTV-Build-Test1.zip"
 minor="http://"
 gui="http://"
 kodi="19.1"
@@ -12,7 +12,7 @@ fanart="https://raw.githubusercontent.com/ElectricalForceMK/Svasta/master/fanart
 preview="http://"
 adult="no"
 info="http://"
-description="BoongoTV BUILD by ElectricalForce" 
+description="*DescriptioO*" 
 -----------------------------------------------------------------------------------------------------------------------
 
 
