@@ -15,6 +15,23 @@ info="http://"
 description="*DescriptioO*" 
 -----------------------------------------------------------------------------------------------------------------------
 
+-----------------------------------------------------------------------------------------------------------------------
+
+name="BoongoTV - TEST-Build"
+version="0.0.1"
+url="https://archive.org/download/test-kodi/TEST-KODI.zip"
+minor="http://"
+gui="http://"
+kodi="19.1"
+theme="http://"
+icon="https://raw.githubusercontent.com/ElectricalForceMK/Svasta/master/icon.png"
+fanart="https://raw.githubusercontent.com/ElectricalForceMK/Svasta/master/fanart.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="[COLOR gold]The Future Of Home Entertainment[/COLOR][CR]Kodi Repository for [COLOR steelblue]BoongoTV[/COLOR][CR][COLOR gold][B]ElectricalForce[/B][/COLOR] [COLOR white]Repo[/COLOR] allows you to install the BoongoTV WIZARD where you can get access to the latest BoongoTV Custom Builds and more." 
+-----------------------------------------------------------------------------------------------------------------------
+
 
 
 
