@@ -53,7 +53,7 @@ description="[COLOR gold]The Future Of Home Entertainment[/COLOR][CR]Kodi Reposi
 
 name="BoongoTV - MARIJA-PVR"
 version="0.0.1"
-url="https://archive.org/download/build-boongo/BuildBoongo.zip"
+url="https://archive.org/download/marija-123/MARIJA123.zip"
 minor="http://"
 gui="http://"
 kodi="19.1"
