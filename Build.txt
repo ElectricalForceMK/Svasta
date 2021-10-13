@@ -32,6 +32,40 @@ info="http://"
 description="[COLOR gold]The Future Of Home Entertainment[/COLOR][CR]Kodi Repository for [COLOR steelblue]BoongoTV[/COLOR][CR][COLOR gold][B]ElectricalForce[/B][/COLOR] [COLOR white]Repo[/COLOR] allows you to install the BoongoTV WIZARD where you can get access to the latest BoongoTV Custom Builds and more." 
 -----------------------------------------------------------------------------------------------------------------------
 
+-----------------------------------------------------------------------------------------------------------------------
+
+name="BoongoTV - TEST-PVR"
+version="0.0.1"
+url="https://archive.org/download/geletest123/geletest123.zip"
+minor="http://"
+gui="http://"
+kodi="19.1"
+theme="http://"
+icon="https://raw.githubusercontent.com/ElectricalForceMK/Svasta/master/icon.png"
+fanart="https://raw.githubusercontent.com/ElectricalForceMK/Svasta/master/fanart.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="[COLOR gold]The Future Of Home Entertainment[/COLOR][CR]Kodi Repository for [COLOR steelblue]BoongoTV[/COLOR][CR][COLOR gold][B]ElectricalForce[/B][/COLOR] [COLOR white]Repo[/COLOR] allows you to install the BoongoTV WIZARD where you can get access to the latest BoongoTV Custom Builds and more." 
+-----------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------
+
+name="BoongoTV - MARIJA-PVR"
+version="0.0.1"
+url="https://archive.org/download/build-boongo/BuildBoongo.zip"
+minor="http://"
+gui="http://"
+kodi="19.1"
+theme="http://"
+icon="https://raw.githubusercontent.com/ElectricalForceMK/Svasta/master/icon.png"
+fanart="https://raw.githubusercontent.com/ElectricalForceMK/Svasta/master/fanart.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="[COLOR gold]The Future Of Home Entertainment[/COLOR][CR]Kodi Repository for [COLOR steelblue]BoongoTV[/COLOR][CR][COLOR gold][B]ElectricalForce[/B][/COLOR] [COLOR white]Repo[/COLOR] allows you to install the BoongoTV WIZARD where you can get access to the latest BoongoTV Custom Builds and more." 
+-----------------------------------------------------------------------------------------------------------------------
+
 
 
 
