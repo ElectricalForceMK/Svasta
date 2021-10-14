@@ -68,9 +68,9 @@ description="[COLOR gold]The Future Of Home Entertainment[/COLOR][CR]Kodi Reposi
 
 -----------------------------------------------------------------------------------------------------------------------
 
-name="BoongoTV - Skin,PVR,Wizard,Repo,Video - Build-Test"
+name="BoongoTV - Skin,PVR,Wizard,Repo,Video - ANDROID 64Bit"
 version="1.5.0"
-url="https://archive.org/download/kire-build/KireBuild.zip"
+url="https://archive.org/download/boongo-tv-android-64bit/BoongoTV%20Android%2064bit.zip"
 minor="http://"
 gui="http://"
 kodi="19.1"
