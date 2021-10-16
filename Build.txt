@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------------------------------------------------------
 
-name="BoongoTV BUILD by ElectricalForce"
-version="0.0.1"
+name="BoongoTV - PavlaKodi"
+version="0.0.2"
 url="https://archive.org/download/build-boongo/BuildBoongo.zip"
 minor="http://"
 gui="http://"
