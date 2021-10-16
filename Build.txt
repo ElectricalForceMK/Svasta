@@ -2,7 +2,7 @@
 
 name="BoongoTV - PavlaKodi"
 version="0.0.2"
-url="https://archive.org/download/build-boongo/BuildBoongo.zip"
+url="https://archive.org/download/pavla-kodi/PavlaKodi.zip"
 minor="http://"
 gui="http://"
 kodi="19.1"
