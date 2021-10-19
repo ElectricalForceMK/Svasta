@@ -4,3 +4,4 @@ Welcome to BoongoTV by ElectricalForce
 
 The Future Of Home Entertainment Kodi Repository for BoongoTV, ElectricalForce Repo allows you to install the 
 BoongoTV WIZARD where you can get access to the latest BoongoTV Custom Builds and more.
+Bongo tivi je besplatna aplikacija za gledajne na tv kanale i filmove isto tako ima i radio.
