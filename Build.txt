@@ -1,11 +1,11 @@
 -----------------------------------------------------------------------------------------------------------------------
 
 name="BoongoTV - PavlaKodi"
-version="0.0.2"
+version="0.0.1"
 url="https://archive.org/download/boongo-tv-kodi/BoongoTV-Kodi.zip"
 minor="http://"
 gui="http://"
-kodi="19.1"
+kodi="19.2"
 theme="http://"
 icon="https://raw.githubusercontent.com/ElectricalForceMK/Svasta/master/icon.png"
 fanart="https://raw.githubusercontent.com/ElectricalForceMK/Svasta/master/fanart.jpg"
