@@ -1,6 +1,6 @@
 -----------------------------------------------------------------------------------------------------------------------
 
-name="BoongoTV - PavlaKodi"
+name="BoongoTV"
 version="0.0.1"
 url="https://archive.org/download/boongo-tv-kodi/BoongoTV-Kodi.zip"
 minor="http://"
